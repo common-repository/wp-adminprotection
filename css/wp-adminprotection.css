@@ -1,0 +1,21 @@
+/* Align icon */
+h2 img {
+	vertical-align: bottom;
+}
+
+/* Add Icon in subnav */
+.wp-submenu-wrap .current a {
+	background: url('../images/menu-icon-lock.png') 12px center no-repeat;
+	padding-left: 25px !important;
+}
+
+/* Resize only vertical */
+textarea {
+	resize: vertical;
+}
+
+/* Make it bold */
+.form-table th {
+	font-weight: bold !important;
+	width: 120px;
+}

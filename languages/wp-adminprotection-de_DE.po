@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wp-adminprotection.php:70
+#: wp-adminprotection.php:273
+#@ wp-adminprotection
+msgid "WP Adminprotection"
+msgstr "WP Adminprotection"
+
+#: wp-adminprotection.php:113
+#@ default
+msgid "Powered by WordPress"
+msgstr ""
+
+#: wp-adminprotection.php:115
+#@ wp-adminprotection
+msgid "You are not welcome"
+msgstr "Du bist nicht willkommen"
+
+#: wp-adminprotection.php:264
+#@ wp-adminprotection
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: wp-adminprotection.php:277
+#@ wp-adminprotection
+msgid "Security"
+msgstr "Sicherheit"
+
+#: wp-adminprotection.php:281
+#@ wp-adminprotection
+msgid "I want to secure my WP-Backend with WP-Adminprotection"
+msgstr "Ja, ich möchte das WordPress Backend durch WP Adminprotection schützen."
+
+#: wp-adminprotection.php:286
+#@ wp-adminprotection
+msgid "1 IP per line"
+msgstr "Eine IP pro Zeile"
+
+#: wp-adminprotection.php:291
+#@ wp-adminprotection
+msgid "Your current IP is"
+msgstr "Deine aktuelle IP ist"
+
+#: wp-adminprotection.php:295
+#@ wp-adminprotection
+msgid "Checking your IP"
+msgstr "Überprüfe deine IP"
+
+#: wp-adminprotection.php:299
+#@ wp-adminprotection
+msgid "Your IP is <strong>accepted</strong> by WP Adminprotection"
+msgstr "Deine IP ist <strong>gültig</strong>"
+
+#: wp-adminprotection.php:301
+#@ wp-adminprotection
+msgid "Your IP <strong>failed</strong> WP-Adminprotection"
+msgstr "Deine IP ist <strong>ungültig</strong>"
+
+#: wp-adminprotection.php:307
+#@ wp-adminprotection
+msgid "Usage"
+msgstr "Erklärung"
+
+#: wp-adminprotection.php:309
+#@ wp-adminprotection
+msgid "Enter any IP that should be allowed to login<br />Use '*' as a Wildcard i.e. <em>192.*</em> or <em>192.168.*.*</em><br />Be sure that your own IP is allowed before you activate the protection,<br>else you have to delete the options ´wp-adminprotection´ in your options table"
+msgstr "Gib alle IP Adressen an die auf das Backend Zugriff haben dürfen<br />Benutze '*' als Platzhalter z.B.: <em>192.*</em> oder <em>192.168.*.*</em><br />Vergewissere dich, dass deine IP <strong>gültig</strong> ist bevor Du das Plugin scharf schaltest.<br>Ansonsten musst Du die Option wp-adminprotection in der Optionstabelle löschen."
+
+#: wp-adminprotection.php:313
+#@ default
+msgid "Save changes"
+msgstr ""
+
